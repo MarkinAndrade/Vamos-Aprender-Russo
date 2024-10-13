@@ -622,7 +622,6 @@
                 <td>S toboj nevózmožno vésti narmálnyj razgovór.</td>
                 <td>(É impossível ter uma conversa normal com você.)</td>
             </tr>
-        </tbody>
     </table>
 </body>
 </html>
