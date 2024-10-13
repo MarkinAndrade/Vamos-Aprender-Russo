@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
@@ -10,7 +8,6 @@
   </h1>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
