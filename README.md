@@ -9,6 +9,7 @@
             <li><a href="Alfabeto.html">Alfabeto</a></li>
             <li><a href="Frases Básicas I.html">Frases Básicas I</a></li>
             <li><a href="Frases Para Afastar.html">Frases Para Afastar</a></li>
+            <li><a href="Frases para pedir informações.html">Frases Para Pedir Informações</li>
         </ul>
     </div>
     <!DOCTYPE html>
