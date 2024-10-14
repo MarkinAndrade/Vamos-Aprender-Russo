@@ -11,8 +11,7 @@
             <li><a href="Frases Para Afastar.html">Frases Para Afastar</a></li>
             <li><a href="Frases para pedir informações.html">Frases Para Pedir Informações</li>
         </ul>
-    </div>
-    <!DOCTYPE html>
+            </div>
 <html lang="pt-BR">
 </head>
 <body>
