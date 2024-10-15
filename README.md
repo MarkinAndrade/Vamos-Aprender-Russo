@@ -1,6 +1,5 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
-<head>
 
 </head>
 <body>
@@ -15,9 +14,7 @@
             <li><a href="Nojo.html">Frases para expressar nojo</a></li>
         </ul>
             </div>
-    <!DOCTYPE html>
 <html lang="pt-BR">
-</head>
 <body>
        <h1>Bem-vindo ao Vamos Aprender Russo!</h1>
         <p>Bem-vindo ao nosso site dedicado ao aprendizado do russo! 
