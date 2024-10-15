@@ -11,6 +11,7 @@
             <li><a href="Frases para repelir e afastar pessoas.html">Frases Para Afastar</a></li>
             <li><a href="Frases para pedir informações.html">Frases Para Pedir Informações</a></li>
             <li><a href="Disciplinar passageiro.html">Frases para disciplinar passageiros</a></li>
+            <li><a href="Nojo.html">Frases para expressar nojo</a></li>
         </ul>
             </div>
     <!DOCTYPE html>
