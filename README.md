@@ -25,7 +25,10 @@
         cirílico até frases para xingar com algum grau de elegância, 
         nosso conteúdo é projetado para facilitar sua jornada, seja você um iniciante 
         ou alguém buscando aprimorar suas habilidades.
-        Um site feito por um curioso para ajudar outros curiosos</p>
+        Um site feito por um curioso para ajudar outros curiosos
+        Agradecimento especial à Armina Samvelovna tanto pelo grupo Russo com Armina, 
+        de onde veio a ideia do site ja que sou um dos que lá também aprende russo, 
+        quanto pelas dicas e correções no projeto e programação do site!</p>
     </div>
 </body>
 </html>
