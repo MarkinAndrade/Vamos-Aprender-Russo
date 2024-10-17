@@ -5,7 +5,7 @@
 <body>
     <div class="menu">
         <ul>
-            <li><a href="Aprender russo.html">Introdução</a></li>
+            <li><a href="aprender-russo.html">Introdução</a></li>
             <li><a href="Alfabeto.html">Alfabeto</a></li>
             <li><a href="Frases Básicas I.html">Frases Básicas I</a></li>
             <li><a href="Frases para repelir e afastar pessoas.html">Frases Para Afastar</a></li>
