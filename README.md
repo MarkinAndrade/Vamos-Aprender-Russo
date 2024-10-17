@@ -5,15 +5,14 @@
 <body>
     <div class="menu">
         <ul>
-            <li><a href="index.html">Introdução</a></li>
-            <li><a href="alfabeto-russo.html">Alfabeto Russo</a></li>
-            <li><a href="frases-basicas-1.html">Frases Básicas I</a></li>
-            <li><a href="frases-para-afastar.html">Frases Para Afastar</a></li>
-            <li><a href="frases-para-pedir-informacao.html">Frases Para Pedir Informações</a></li>
-            <li><a href="disciplinar-passageiro.html">Frases para disciplinar passageiros</a></li>
-            <li><a href="nojo.html">Frases para expressar nojo</a></li>
-            <li><a href="demissao.html">Frases para pedir demissão</a></li>
-            </ul>
+            <li><a href="Aprender russo.html">Introdução</a></li>
+            <li><a href="Alfabeto.html">Alfabeto</a></li>
+            <li><a href="Frases Básicas I.html">Frases Básicas I</a></li>
+            <li><a href="Frases para repelir e afastar pessoas.html">Frases Para Afastar</a></li>
+            <li><a href="Frases para pedir informações.html">Frases Para Pedir Informações</a></li>
+            <li><a href="Disciplinar passageiro.html">Frases para disciplinar passageiros</a></li>
+            <li><a href="Nojo.html">Frases para expressar nojo</a></li>
+            <li><a href="demissão.html">Frases para pedir demissão</a></li>
         </ul>
             </div>
 <html lang="pt-BR">
@@ -26,10 +25,7 @@
         cirílico até frases para xingar com algum grau de elegância, 
         nosso conteúdo é projetado para facilitar sua jornada, seja você um iniciante 
         ou alguém buscando aprimorar suas habilidades.
-        Um site feito por um curioso para ajudar outros curiosos
-        Agradecimento especial à Armina Samvelovna tanto pelo grupo Russo com Armina, 
-        de onde veio a ideia do site ja que sou um dos que lá também aprende russo, 
-        quanto pelas dicas e correções no projeto e programação do site!</p>
+        Um site feito por um curioso para ajudar outros curiosos</p>
     </div>
 </body>
 </html>
