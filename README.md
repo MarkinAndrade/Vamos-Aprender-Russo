@@ -25,7 +25,8 @@
         cirílico até frases para xingar com algum grau de elegância, 
         nosso conteúdo é projetado para facilitar sua jornada, seja você um iniciante 
         ou alguém buscando aprimorar suas habilidades.
-        Um site feito por um curioso para ajudar outros curiosos</p>
+        Um site feito por um curioso para ajudar outros curiosos
+        Agradecimento especial à Armina Samvelovna pelas correções e dicas </p>
     </div>
 </body>
 </html>
