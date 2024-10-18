@@ -1,0 +1,9 @@
+/* wallpaper.css */
+
+body {
+    background-image: url('https://github.com/MarkinAndrade/Vamos-Aprender-Russo/tree/main/style/269738-alexfas01.jpg');
+    background-size: cover; /* Para ajustar o tamanho da imagem ao viewport */
+    background-position: full;
+    background-repeat: repeat; /* Para evitar que a imagem se repita */
+}
+*/
