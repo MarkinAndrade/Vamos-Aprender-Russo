@@ -5,7 +5,6 @@
 <body>
     <div class="menu">
         <ul>
-                <li><a href="index.html">Introdução</a></li>            
                 <li><a href="alfabeto-russo.html">Alfabeto Russo</a></li>
                 <li><a href="frases-basicas-1.html">Frases Básicas I</a></li>
                 <li><a href="frases-para-afastar.html">Frases Para Afastar</a></li>
@@ -13,6 +12,7 @@
                 <li><a href="disciplinar-passageiro.html">Frases para disciplinar passageiros</a></li>
                 <li><a href="nojo.html">Frases para expressar nojo</a></li>
                 <li><a href="demissao.html">Frases para pedir demissão</a></li>
+                <li><a href="numeros.html">Números, datas e preços</a>
         </ul>
             </div>
 <html lang="pt-BR">
