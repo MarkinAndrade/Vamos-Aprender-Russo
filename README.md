@@ -13,6 +13,7 @@
                 <li><a href="nojo.html">Frases para expressar nojo</a></li>
                 <li><a href="demissao.html">Frases para pedir demissão</a></li>
                 <li><a href="numeros.html">Números, datas e preços</a>
+                    <li><a href="adverbios.html>Advérbios</a></li>
         </ul>
             </div>
 <html lang="pt-BR">
